@@ -13,7 +13,7 @@ Everything below is **my own work**: demo sites I designed and built to show wha
 | <img src="assets/boxer-atelier.jpg" width="320"> | **Boxer Atelier** | Premium one-page site for an automotive atelier, with cinematic scroll animations | Next.js 16, TypeScript, Tailwind 4, GSAP, Framer Motion | [Live demo](https://boxer.zevro.app) · [Source](https://github.com/Integrius/boxer-atelier-demo) |
 | <img src="assets/arantes.jpg" width="320"> | **Arantes** | Landing page for a dermatology clinic: trust-focused copy, FAQ, privacy page, schema.org SEO | HTML, CSS, JavaScript | [Live demo](https://arantesdermato.zevro.app) · [Source](https://github.com/Integrius/arantesdermato) |
 | <img src="assets/chalet-du-cacao.jpg" width="320"> | **Chalet du Cacao** | Mobile-first site for an artisan confectionery, CSS-only interactions | HTML, CSS | [Live demo](https://chaletducacao.netlify.app) · [Source](https://github.com/Integrius/chalet-du-cacao-demo) |
-| <img src="assets/aurum.jpg" width="320"> | **Aurum** | Aesthetic clinic site template with a content/database layer and authentication | Next.js, React, Prisma, NextAuth, Framer Motion | [Live demo](https://beauty.zevro.app) · Source on request |
+| <img src="assets/aurum.jpg" width="320"> | **Aurum** | Aesthetic clinic site with online booking, admin panel and authentication | Next.js 16, TypeScript, Prisma, NextAuth, Tailwind | [Live demo](https://beauty.zevro.app) · [Source](https://github.com/Integrius/aurum-estetica-demo) |
 
 ### Own products (code private)
 
